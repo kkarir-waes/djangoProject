@@ -4,18 +4,18 @@
 
 ### install Django
 
-<em>pip3 install Django~=4.2.1</em>
+`pip3 install Django~=4.2.1`
 
 ### create requiements.txt file
 
-<em></em>p3 freeze --local > requirements.txt
+`p3 freeze --local > requirements.txt`
 
 ## Reminders
 
 ## PIP comamnds
 
-pip show xxxxxx - shows installed modules called xxxx
-pip freeze --local > file.txt - output to a txt file
+`pip show xxxxxx` - shows installed modules called xxxx`
+`pip freeze --local > file.txt` - output to a txt file
 
 To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
