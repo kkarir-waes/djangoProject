@@ -1,1 +1,1 @@
-web: gunicorn djanoproject.wsgi
+web: gunicorn my_project.wsgi
