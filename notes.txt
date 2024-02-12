@@ -25,3 +25,8 @@ Local server where web page will run
     http://127.0.0.1:8000/
 
 
+
+Deployed on HeroKu
+    https://kk-djangoproject-03398b625873.herokuapp.com/hello/
+
+    
