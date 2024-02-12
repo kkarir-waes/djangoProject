@@ -1,0 +1,27 @@
+Create Django project
+    django-main startproject {proj_name} {directory-name}
+
+    e.g.    dhjango-main startproject my_project .      << the dot to say use local directory
+
+
+
+Get installed  modules and output to file
+    pip3 freeze --local requirements.txt
+
+
+Create new app
+    python3 manage.py startapp hello_world
+    >> then add the new app to settings.py in INSTALLED_APPS section
+
+    this creates models.py and view.py which will be used to build the app
+    models.py   - the database models
+    view.py     - the view code for displaying messages
+
+
+Run the server, 
+    python manage.py runserver
+
+Local server where web page will run
+    http://127.0.0.1:8000/
+
+
